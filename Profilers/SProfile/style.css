@@ -1,0 +1,37 @@
+body{ font: 14px Georgia, serif; }
+ 
+#page-wrap { margin: 0 auto;
+    padding: 45px;
+    background-color: ghostwhite;
+    border: groove;
+}
+ 
+h1  { margin: 25px 0; font: 18px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
+ 
+#quiz input {
+    vertical-align: middle;
+}
+ 
+#quiz ol {
+   margin: 0 0 10px 20px;
+}
+ 
+#quiz ol li {
+   margin: 0 0 20px 0;
+}
+ 
+#quiz ol li div {
+   padding: 4px 0;
+}
+ 
+#quiz h3 {
+   font-size: 17px; margin: 0 0 1px 0; color: #666;
+   border: 1px solid #ddd;
+    padding: 5px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+ 
+#results {
+    font: 44px Georgia, Serif;
+}
