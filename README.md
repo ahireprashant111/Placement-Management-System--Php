@@ -1,5 +1,9 @@
+# I need Help in This Project, Want Option to apply for the job and more updation.
+# Rewards will be given by ahireprashant111@gmail.com/ 8793233096
+#### Clean Code Help  is Required. Anybody Who Can helps to this Project, I will be Thankful to them. Hope you Join in this Project
+
 # Placement Management System
-## A Smart Way to Manage the Proogress of Students
+ A Smart Way to Manage the Proogress of Students
 
 # Used Technologies
 
@@ -45,4 +49,3 @@ It is the Main Homepage where the Links to all the Different Logins Contain alon
 ### Drives Homepage
 This Page is for the Visitors to Look at the Current Placement Drives News and Other things.
 
-#### Clean Code Help  is Required. Anybody Who Can helps to this Project, I will be Thankful to them. Hope you Join in this Project
